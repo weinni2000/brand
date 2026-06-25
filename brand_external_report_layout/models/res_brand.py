@@ -9,8 +9,8 @@ from odoo import _, api, fields, models, tools
 
 class ResBrand(models.Model):
     _inherit = "res.brand"
-    
-    website_url = fields.Char(default="") 
+
+    website_url = fields.Char(default="")
     # it's important that website_url is not False
     # as this leads to problems in Standard Odoo Code
 
