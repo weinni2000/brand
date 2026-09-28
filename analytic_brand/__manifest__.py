@@ -8,7 +8,7 @@
         brands in their domains.""",
     "version": "18.0.3.0.2",
     "license": "AGPL-3",
-    "author": "ACSONE SA/NV," "Odoo Community Association (OCA)",
+    "author": "ACSONE SA/NV,Odoo Community Association (OCA)",
     "website": "https://github.com/OCA/brand",
     "depends": ["analytic", "brand"],
     "data": ["views/account_analytic_distribution_model.xml"],
