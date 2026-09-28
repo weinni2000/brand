@@ -14,7 +14,4 @@
     "data": ["views/account_analytic_distribution_model.xml"],
     "demo": [],
     "maintainers": ["sbejaoui"],
-    "external_dependencies": {
-        "python": ["openupgradelib"],
-    },
 }
